@@ -9,16 +9,20 @@
 
 ###
 
+<br clear="both">
+
+<p align="center">Hayoloh liat apa kamu</p>
+
+###
+
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1372530763651878974/1412701204986724464/jadiginile.jpeg?ex=68b94005&is=68b7ee85&hm=9377fd695f768f54875efb45a61c2f988022ddde0b7c93c60604226f2e23bb2e&"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1372530763651878974/1412729288364658761/download.jpeg?ex=68b95a2d&is=68b808ad&hm=67fdcf0136c82a5d9bd9d9849b81d528a9a62312dea7ec99420bb9f001932e82&"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/wqki.mp3">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wqki.mp3&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yukakhun77-hash.yukakhun77-hash&"  />
 </div>
 
 ###
